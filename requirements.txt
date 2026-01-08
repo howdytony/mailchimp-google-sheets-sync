@@ -1,0 +1,5 @@
+mailchimp-marketing
+pandas
+gspread
+oauth2client
+python-dotenv
