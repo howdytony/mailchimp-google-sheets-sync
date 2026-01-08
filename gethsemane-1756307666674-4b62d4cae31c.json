@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gethsemane-1756307666674",
+  "private_key_id": "4b62d4cae31c228e520875c0c3a3c32a527e6378",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjHpgrMWCTC2bf\n1trGjL1Npq58aNmFFYN7WiOpL4G73DhoiPulYeyoP6Jr9COBcAGJ9rA3fSoTo1Zt\nWUKtWX7P91QNRp1W3tsfNxdCn71pMNvBecZURfxjfi423C2sPyG9A7JASuiLw+O3\nN76WPHafGW7uD9NeX6tdwqPmN2NqanxQIutwesbng+r6hDfSgDoxEa4Cupx6Fnvf\nUVm7QQcFh4GY49I4BCQySdsS52r262qYQlZUhRVK8OMXiT9V8uPz/Qx8TQbZuZE/\nsRxA4kg0y/5IgHeMmOYNY3RnwiLlRbU4cU+6s00E+NA0Oxbxdy5pypv1fZB2oQgx\nN2WJ+SsbAgMBAAECggEAN1/jeIZCqqhsPADMNCsC+KFlCobtkOhEwlNPV9fwyr1v\nyMz34KTlmhhAIzW19/L2EsfT+oJbDl+cr3Jl2ENRcXgc6ITYVO1Cpc4l71AbFOKp\nN30HfwRjMcNcHPOR7a9g3LGsiXbkis3tN/2MjaPpAQm5RsfIkXkYy7OPwE99SFpj\nKIwUBiwADYY9ZyDbgrVonz1//86nn41qwcW98JfhpibGQ7d91dzvDw33A/HAtpAB\n1J9FuR8jU+4Z5PLiK4V97UO6HRIMGiSfs4D8Sws7f2eaUYyEZhSZj9t0vyVySXAY\n8eaz/cHqGsh8aE9nCJfESY8JPbF7Iu/R7FH7bc/AwQKBgQDOourScpT0Aox83mb1\ndasKxPKeP+RCslNvBO5JCIW6/nSW1e6jSBHJqBn3/+DzaTGwHEzdAM1iSdKKTsRg\nhPkpUIYV0WGR+6qmwL2ZLqeFFqnTHva6nH9K58GZurGAzyuSjXUSWwRRX+hwQ+13\niNHJmoBLsjFFb38GrgmwKupl3wKBgQDKFlpJ8C55ZrBsZB6zo5xxL9kcIJAe4wsx\nf+SWYOvgEmQ9w8/iSZMdL7ulYG7k0TE1gY+6Z3P9KflGPxgwTUBRNLSld7C2i5H6\ngv5gaa+An/whe8FFDgF+AcQLhr7flzmuqGlwaXcbt6D/6wMowJIZOAI0Idn0FCud\nlkfav08KRQKBgQCdv+JlJvRwFEIMUf1oBpy9a/2MslogUONBLhJ7zvXI+9kmDcxQ\n+wQZXyv0GHQzX2t/dxt23NXu40zIKbnhtaJB2CeFIIPMXsS46QvVlbht8g9UDZ9u\nd2r2VFeIdO5t17r79uIZUULKnN1mV3VCfEEsF7c6Ep9q0uO2xca/pwOrIQKBgQCV\nUX7VMwqj2SRycmfdA/8MAvbAua7Do68ZnA4iruqaXfyDRrPL1+FDp4lW4LIPkCJ0\nDo9MhDRH00PEi8orpmjnl7ICsTV5LBdoqnGae3yZ5Zw+gVqE05x2podcnOtb+jk8\nvGNsFAFWEZB8iAGFkwRgbeny6zBIEL9JaUkecEzOoQKBgA111vujf24xd3jRwumz\nAdBeSRuUSpBrTj/c+EGKZPcK1cdsn1eHau/jelBEXHzBo6pu46pB+9/rc8JSVZu4\nMBQHnf6HCdHVXWeg74610PbJkl+3Jox8w99ukdvg3nBzP5PEYt03C3yNf1DG6Ony\nuWzSfRgMomEQwhtMO2KIQe4D\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheet-mailchimp-sync@gethsemane-1756307666674.iam.gserviceaccount.com",
+  "client_id": "106083812702019422973",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheet-mailchimp-sync%40gethsemane-1756307666674.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
